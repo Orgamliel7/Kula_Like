@@ -1,13 +1,20 @@
 # Kula_Like
 
 שלום לכולם!
-חברי קהילת "כולא לייק" הקימו פרויקט open source ייחודי שיכיל בתוכו חומרים 
-READMEs do more than explain how to use your project. They also explain why your project matters, and what your users can do with it.
+חברי קהילת "כולא לייק" הקימו פרויקט open source ייחודי שיכיל חומרים רלוונטיים על תעשיית ההייטק בכלל ופרדוקס הג'וניורים בפרט. יהיו כאן קישורים וסיכומים של הרצאות מאקדמיית "הפניקס" הנפלאה, קישורים רלוונטיים, מצגות, ועוד..
 
-In your README, try to answer the following questions:
+1. מה הפרויקט הזה עושה?
+הפרויקט מאגד תוכן איכותי וחשוב לכל מי שרוצה לדעת יותר על תעשיית ההייטק 
 
-What does this project do?
-Why is this project useful?
-How do I get started?
-Where can I get more help, if I need it?
-You can use your README to answer other questions, like how you handle contributions, what the goals of the project are, and information about licenses and attribution. If you don’t want to accept contributions, or your project is not yet ready for production, write this information down.
+2. למי הפרויקט מיועד?
+לכל מי שרוצה ללמוד על תעשיית ההייטק ביותר על עולם המתכנתים והליכי הקבלה לעבודה. מתאים במיוחד לג'וניורים שרוצים לדעת יותר, אבל כולם מתקבלים בברכה :)
+
+3. למה הפרויקט הזה שימושי?
+הפרויקט נגיש לכולם לצפייה והוספה של תכנים, ומאפשר במקום אחד למצוא תכנים רבים שיקדמו אותנו
+
+4. איך מתחילים?
+החומרים מחולקים לתיקיות ייעודיות, נכנסים ומתחילים ללמוד. אפשר כמובן להוסיף תוכן רלוונטי למאגר
+
+תודות:
+תודה מיוחדת לעדי פורת ושמעון מויאל ולכל חברי קהילת "כולא_לייק"!
+https://www.linkedin.com/groups/9061244/   קישור לדף הקהילה בLinkedIn
