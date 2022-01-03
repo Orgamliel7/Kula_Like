@@ -1,6 +1,7 @@
 # Kula_Like
 
-שלום לכולם! 
+שלום לכולם!
+חברי קהילת "כולא לייק" הקימו פרויקט open source ייחודי שיכיל בתוכו חומרים 
 READMEs do more than explain how to use your project. They also explain why your project matters, and what your users can do with it.
 
 In your README, try to answer the following questions:
